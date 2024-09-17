@@ -1,6 +1,6 @@
 # Avaliação Flask - Curso SENAI Taguatinga DF
 
-Este repositório contém a avaliação desenvolvida para o curso de aperfeiçoamento profissional SENAI Taguatinga DF, utilizando **Flask**.
+Este repositório contém a avaliação desenvolvida para o curso de aperfeiçoamento profissional em Inteligência Artificial no SENAI Taguatinga DF, utilizando **Flask**.
 
 ## Objetivo
 
